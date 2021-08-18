@@ -1,4 +1,7 @@
 ## Olá! Eu sou a Aryanne :) 
+<br/>
+###Este é meu perfil secundário. Perdi o acesso da minha outra conta :(
+<br/>
  <div>
   <a href="https://github.com/aryanneas">   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryanneas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
