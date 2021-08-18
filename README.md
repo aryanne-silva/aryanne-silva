@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Aryanne :) 
 <br/>
-<p>Este é meu perfil secundário. Perdi o acesso da minha outra conta :(</p>
+<p>Este é meu perfil secundário. Perdi o acesso da minha <a href="https://github.com/aryanneas">outra conta</a> :(</p>
 <br/>
  <div>
   <a href="https://github.com/aryanneas">   
