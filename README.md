@@ -1,16 +1,18 @@
-## Olá! Eu sou a Aryanne :) 
+## Hello World! I'm Aryanne :) 
 <br/>
 <p>Este é meu perfil secundário. Perdi o acesso da minha <a href="https://github.com/aryanneas">outra conta</a> :(</p>
 <br/>
- <div>
-  <a href="https://github.com/aryanneas">   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanneas&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-
+<a href="https://github.com/aryanne-silva/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aryanne-silva" />
+</a>
+<a href="https://github.com/aryanne-silva/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
 <div style="display: inline_block"><br>
   <img align="center" alt="Ary-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ary-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Ary-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Ary-NodeJs" height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWPXsfiqWJGWUOH9Zx8sy6vU9Y4w7df8tEyw&s">
   <img align="center" alt="Ary-NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Ary-Bootstrap" width="30" height="30" style="max-width:100%;">
   <img align="center" alt="Ary-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -22,7 +24,7 @@
   <img align="center" alt="Ary-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Ary-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Ary-AWS" width="30" height="30" style="max-width:100%;">
- <img align="center" src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="Ary-Postman" width="30" height="30" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="max-width:100%;">
+ <img align="center" src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Ary-Postman" width="30" height="30" data-canonical-src="https://www.svgrepo.com/show/354202/postman-icon.svg" style="max-width:100%;">
 </div>
   
   ##
